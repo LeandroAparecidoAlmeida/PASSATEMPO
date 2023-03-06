@@ -1,0 +1,50 @@
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\Passatempo.exe.config
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\Passatempo.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\Passatempo.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Passatempo.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Jogos.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Jogos.TelaSobre.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Passatempo.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Passatempo.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\passatempo\obj\Release\Passatempo.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\Passatempo.exe.config
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Passatempo.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Passatempo.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Jogos.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaSobre.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\Passatempo.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\Passatempo.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\Passatempo.exe.config
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Passatempo.exe
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Passatempo.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\Passatempo.exe
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\Passatempo.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Jogos.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaSobre.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\bin\Passatempo.exe.config
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Passatempo.exe
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Passatempo.pdb
+D:\2. SOFTWARE\PASSATEMPO\bin\Passatempo.exe
+D:\2. SOFTWARE\PASSATEMPO\bin\Passatempo.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Jogos.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaSobre.resources
+D:\2. SOFTWARE\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\Passatempo.exe.config
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Passatempo.exe
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Passatempo.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\Passatempo.exe
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\Passatempo.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Jogos.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Jogos.TelaSobre.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\passatempo\obj\Release\Passatempo.csproj.GenerateResource.Cache

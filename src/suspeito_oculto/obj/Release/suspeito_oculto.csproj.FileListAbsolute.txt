@@ -1,0 +1,80 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\bin\Release\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\bin\Release\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\suspeito_oculto.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\suspeito_oculto.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\suspeito_oculto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\suspeito_oculto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\suspeito_oculto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\suspeito_oculto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\suspeito.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\suspeito.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito.pdb
+D:\2. SOFTWARE\PASSATEMPO\bin\suspeito.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\suspeito.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\2. SOFTWARE\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito.dll
+D:\2. SOFTWARE\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\suspeito.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\suspeito.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\suspeito_oculto\obj\Release\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito_oculto.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\suspeito_oculto\obj\Release\suspeito.pdb

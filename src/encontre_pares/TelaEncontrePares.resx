@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="panel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1260, 126</value>
+  </data>
+  <data name="panel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panel7.TabIndex" type="System.Int32, mscorlib">
+    <value>83</value>
+  </data>
+  <data name="&gt;&gt;panel7.Name" xml:space="preserve">
+    <value>panel7</value>
+  </data>
+  <data name="&gt;&gt;panel7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel7.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="pcbox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 17</value>
+  </data>
+  <data name="pcbox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pcbox1.Name" xml:space="preserve">
+    <value>pcbox1</value>
+  </data>
+  <data name="&gt;&gt;pcbox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox1.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pcbox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 17</value>
+  </data>
+  <data name="pcbox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox2.TabIndex" type="System.Int32, mscorlib">
+    <value>86</value>
+  </data>
+  <data name="&gt;&gt;pcbox2.Name" xml:space="preserve">
+    <value>pcbox2</value>
+  </data>
+  <data name="&gt;&gt;pcbox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox2.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="pcbox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 17</value>
+  </data>
+  <data name="pcbox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox3.TabIndex" type="System.Int32, mscorlib">
+    <value>87</value>
+  </data>
+  <data name="&gt;&gt;pcbox3.Name" xml:space="preserve">
+    <value>pcbox3</value>
+  </data>
+  <data name="&gt;&gt;pcbox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox3.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="pcbox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>529, 17</value>
+  </data>
+  <data name="pcbox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox4.TabIndex" type="System.Int32, mscorlib">
+    <value>88</value>
+  </data>
+  <data name="&gt;&gt;pcbox4.Name" xml:space="preserve">
+    <value>pcbox4</value>
+  </data>
+  <data name="&gt;&gt;pcbox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox4.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="pcbox5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 146</value>
+  </data>
+  <data name="pcbox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox5.TabIndex" type="System.Int32, mscorlib">
+    <value>89</value>
+  </data>
+  <data name="&gt;&gt;pcbox5.Name" xml:space="preserve">
+    <value>pcbox5</value>
+  </data>
+  <data name="&gt;&gt;pcbox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox5.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="pcbox6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 146</value>
+  </data>
+  <data name="pcbox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox6.TabIndex" type="System.Int32, mscorlib">
+    <value>90</value>
+  </data>
+  <data name="&gt;&gt;pcbox6.Name" xml:space="preserve">
+    <value>pcbox6</value>
+  </data>
+  <data name="&gt;&gt;pcbox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox6.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="pcbox7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 146</value>
+  </data>
+  <data name="pcbox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox7.TabIndex" type="System.Int32, mscorlib">
+    <value>91</value>
+  </data>
+  <data name="&gt;&gt;pcbox7.Name" xml:space="preserve">
+    <value>pcbox7</value>
+  </data>
+  <data name="&gt;&gt;pcbox7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox7.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="pcbox8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>529, 146</value>
+  </data>
+  <data name="pcbox8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox8.TabIndex" type="System.Int32, mscorlib">
+    <value>92</value>
+  </data>
+  <data name="&gt;&gt;pcbox8.Name" xml:space="preserve">
+    <value>pcbox8</value>
+  </data>
+  <data name="&gt;&gt;pcbox8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox8.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="pcbox9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 275</value>
+  </data>
+  <data name="pcbox9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox9.TabIndex" type="System.Int32, mscorlib">
+    <value>93</value>
+  </data>
+  <data name="&gt;&gt;pcbox9.Name" xml:space="preserve">
+    <value>pcbox9</value>
+  </data>
+  <data name="&gt;&gt;pcbox9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox9.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="pcbox10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 275</value>
+  </data>
+  <data name="pcbox10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox10.TabIndex" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="&gt;&gt;pcbox10.Name" xml:space="preserve">
+    <value>pcbox10</value>
+  </data>
+  <data name="&gt;&gt;pcbox10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox10.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pcbox11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 275</value>
+  </data>
+  <data name="pcbox11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox11.TabIndex" type="System.Int32, mscorlib">
+    <value>95</value>
+  </data>
+  <data name="&gt;&gt;pcbox11.Name" xml:space="preserve">
+    <value>pcbox11</value>
+  </data>
+  <data name="&gt;&gt;pcbox11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox11.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pcbox12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>529, 275</value>
+  </data>
+  <data name="pcbox12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox12.TabIndex" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="&gt;&gt;pcbox12.Name" xml:space="preserve">
+    <value>pcbox12</value>
+  </data>
+  <data name="&gt;&gt;pcbox12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox12.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox12.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="pcbox13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 404</value>
+  </data>
+  <data name="pcbox13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox13.TabIndex" type="System.Int32, mscorlib">
+    <value>97</value>
+  </data>
+  <data name="&gt;&gt;pcbox13.Name" xml:space="preserve">
+    <value>pcbox13</value>
+  </data>
+  <data name="&gt;&gt;pcbox13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox13.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox13.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pcbox14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 404</value>
+  </data>
+  <data name="pcbox14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox14.TabIndex" type="System.Int32, mscorlib">
+    <value>98</value>
+  </data>
+  <data name="&gt;&gt;pcbox14.Name" xml:space="preserve">
+    <value>pcbox14</value>
+  </data>
+  <data name="&gt;&gt;pcbox14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox14.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox14.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pcbox15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 404</value>
+  </data>
+  <data name="pcbox15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox15.TabIndex" type="System.Int32, mscorlib">
+    <value>99</value>
+  </data>
+  <data name="&gt;&gt;pcbox15.Name" xml:space="preserve">
+    <value>pcbox15</value>
+  </data>
+  <data name="&gt;&gt;pcbox15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox15.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox15.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pcbox16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pcbox16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>529, 404</value>
+  </data>
+  <data name="pcbox16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="pcbox16.TabIndex" type="System.Int32, mscorlib">
+    <value>100</value>
+  </data>
+  <data name="&gt;&gt;pcbox16.Name" xml:space="preserve">
+    <value>pcbox16</value>
+  </data>
+  <data name="&gt;&gt;pcbox16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbox16.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbox16.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblTempo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 27pt, style=Bold</value>
+  </data>
+  <data name="lblTempo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTempo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>703, 494</value>
+  </data>
+  <data name="lblTempo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 68</value>
+  </data>
+  <data name="lblTempo.TabIndex" type="System.Int32, mscorlib">
+    <value>102</value>
+  </data>
+  <data name="lblTempo.Text" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lblTempo.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblTempo.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lblTempo.Name" xml:space="preserve">
+    <value>lblTempo</value>
+  </data>
+  <data name="&gt;&gt;lblTempo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTempo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTempo.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="pcbTempo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>666, 473</value>
+  </data>
+  <data name="pcbTempo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 123</value>
+  </data>
+  <data name="pcbTempo.TabIndex" type="System.Int32, mscorlib">
+    <value>103</value>
+  </data>
+  <data name="pcbTempo.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pcbTempo.Name" xml:space="preserve">
+    <value>pcbTempo</value>
+  </data>
+  <data name="&gt;&gt;pcbTempo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pcbTempo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pcbTempo.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="btnIniciar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="btnIniciar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnIniciar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>336, 543</value>
+  </data>
+  <data name="btnIniciar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 35</value>
+  </data>
+  <data name="btnIniciar.TabIndex" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="btnIniciar.Text" xml:space="preserve">
+    <value>Iniciar</value>
+  </data>
+  <data name="&gt;&gt;btnIniciar.Name" xml:space="preserve">
+    <value>btnIniciar</value>
+  </data>
+  <data name="&gt;&gt;btnIniciar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnIniciar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnIniciar.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <metadata name="timContagem.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="lblErros1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="lblErros1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 532</value>
+  </data>
+  <data name="lblErros1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 32</value>
+  </data>
+  <data name="lblErros1.TabIndex" type="System.Int32, mscorlib">
+    <value>121</value>
+  </data>
+  <data name="lblErros1.Text" xml:space="preserve">
+    <value>ERROS:</value>
+  </data>
+  <data name="lblErros1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lblErros1.Name" xml:space="preserve">
+    <value>lblErros1</value>
+  </data>
+  <data name="&gt;&gt;lblErros1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblErros1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblErros1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="timOcultar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>131, 17</value>
+  </metadata>
+  <metadata name="timIniciar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>247, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>798, 593</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Encontre os Pares</value>
+  </data>
+  <data name="&gt;&gt;timContagem.Name" xml:space="preserve">
+    <value>timContagem</value>
+  </data>
+  <data name="&gt;&gt;timContagem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;timOcultar.Name" xml:space="preserve">
+    <value>timOcultar</value>
+  </data>
+  <data name="&gt;&gt;timOcultar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;timIniciar.Name" xml:space="preserve">
+    <value>timIniciar</value>
+  </data>
+  <data name="&gt;&gt;timIniciar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>TelaEncontrePares</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

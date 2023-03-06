@@ -1,0 +1,90 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\Jogos.Forca.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\Jogos.Forca.TelaJogoForca.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\Jogos.Forca.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\Jogos.Forca.TelaJogoForca.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\Jogos.Forca.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\Jogos.Forca.TelaJogoForca.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_forca.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_forca.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\jogo_forca.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\jogo_forca.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\jogo_forca.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\jogo_forca.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.g.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\forca.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\forca.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\forca.g.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\forca.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_forca\obj\Release\forca.pdb
+D:\2. SOFTWARE\PASSATEMPO\bin\forca.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\forca.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\forca.g.resources
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\forca.dll
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_forca\obj\Release\forca.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\forca.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\forca.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\forca.g.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\Jogos.JogoForca.TelaJogoForca.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\jogo_forca.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\forca.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_forca\obj\Release\forca.pdb

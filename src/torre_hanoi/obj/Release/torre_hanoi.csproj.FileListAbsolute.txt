@@ -1,0 +1,55 @@
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\torre_hanoi.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\torre_hanoi.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\torre_hanoi.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\torre_hanoi.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\torre_hanoi\obj\Release\torre_hanoi.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\torre_hanoi.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\torre_hanoi.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\torre_hanoi\obj\Release\torre_hanoi.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\torre_hanoi\obj\Release\torre_hanoi.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\torre_hanoi\obj\Release\torre_hanoi.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\torre_hanoi.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\torre_hanoi.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\hanoi.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\hanoi.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\torre_hanoi\obj\Release\hanoi.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\torre_hanoi\obj\Release\hanoi.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\bin\hanoi.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\hanoi.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\2. SOFTWARE\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\src\torre_hanoi\obj\Release\hanoi.dll
+D:\2. SOFTWARE\PASSATEMPO\src\torre_hanoi\obj\Release\hanoi.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\hanoi.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\hanoi.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\torre_hanoi\obj\Release\Jogos.TorreHanoi.TelaTorreHanoi.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\torre_hanoi\obj\Release\torre_hanoi.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\torre_hanoi\obj\Release\hanoi.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\torre_hanoi\obj\Release\hanoi.pdb

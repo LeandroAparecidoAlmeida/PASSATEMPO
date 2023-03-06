@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\..\bin\passatempo.chm
+Contents file=Table of Contents.hhc
+Default Window=window1
+Default topic=passatempo.html
+Display compile progress=No
+Error log file=Log.log
+Language=0x416 Português (Brasil)
+Title=Ajuda do Passatempo Versão 1.0
+
+[WINDOWS]
+window1=,"Table of Contents.hhc",,"jogo_da_velha.html","passatempo.html",,"Sobre",,"Sobre",0x2020,220,0x204e,,0x11810000,,,,,,0
+
+
+[INFOTYPES]
+

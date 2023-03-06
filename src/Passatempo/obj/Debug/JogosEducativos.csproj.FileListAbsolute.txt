@@ -1,0 +1,10 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\JogosEducativos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\JogosEducativos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\JogosEducativos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\JogosEducativos.pdb

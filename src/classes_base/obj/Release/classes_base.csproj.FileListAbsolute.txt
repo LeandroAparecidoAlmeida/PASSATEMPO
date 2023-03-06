@@ -1,0 +1,45 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes\obj\Release\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes\obj\Release\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes_base\obj\Release\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes_base\obj\Release\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes_base\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\classes_base\obj\Release\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\classes_base\obj\Release\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\classes_base\obj\Release\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\classes_base\obj\Release\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\classes_base\obj\Release\classes_base.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\classes_base\obj\Release\classes_base.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\classes_base\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\classes_base.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\classes_base.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\classes_base\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\classes_base\obj\Release\classes_base.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\classes_base\obj\Release\classes_base.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\classes_base.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\classes_base.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\classes_base\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\classes_base\obj\Release\classes_base.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\classes_base\obj\Release\classes_base.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\classes.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\classes.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\classes_base\obj\Release\classes.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\classes_base\obj\Release\classes.pdb
+D:\2. SOFTWARE\PASSATEMPO\bin\classes.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\classes.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\classes_base\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\classes_base\obj\Release\classes.dll
+D:\2. SOFTWARE\PASSATEMPO\src\classes_base\obj\Release\classes.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\classes.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\classes.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\classes_base\obj\Release\classes_base.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\classes_base\obj\Release\classes.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\classes_base\obj\Release\classes.pdb

@@ -1,0 +1,60 @@
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\rato_labirinto.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\rato_labirinto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\rato_labirinto.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\rato_labirinto.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\rato_labirinto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\rato_labirinto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\rato_labirinto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_4erros\obj\Release\rato_labirinto.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_4erros\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_4erros\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_4erros\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_4erros\obj\Release\rato_labirinto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_4erros\obj\Release\rato_labirinto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\rato_labirinto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\rato_labirinto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_4erros\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_4erros\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_4erros\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_4erros\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_4erros\obj\Release\rato_labirinto.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\rato_labirinto\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\rato_labirinto\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\rato_labirinto\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\labirinto.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\labirinto.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\rato_labirinto\obj\Release\labirinto.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\rato_labirinto\obj\Release\labirinto.pdb
+D:\2. SOFTWARE\PASSATEMPO\bin\labirinto.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\labirinto.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\rato_labirinto\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\rato_labirinto\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. SOFTWARE\PASSATEMPO\src\rato_labirinto\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\src\rato_labirinto\obj\Release\labirinto.dll
+D:\2. SOFTWARE\PASSATEMPO\src\rato_labirinto\obj\Release\labirinto.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\labirinto.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\labirinto.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\rato_labirinto\obj\Release\rato_labirinto.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\rato_labirinto\obj\Release\Jogos.Labirinto.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\rato_labirinto\obj\Release\Jogos.Labirinto.TelaLabirinto.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\rato_labirinto\obj\Release\rato_labirinto.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\rato_labirinto\obj\Release\labirinto.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\rato_labirinto\obj\Release\labirinto.pdb

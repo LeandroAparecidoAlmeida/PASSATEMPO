@@ -1,0 +1,4 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\classes.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\classes.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes\obj\Release\classes.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\classes\obj\Release\classes.pdb

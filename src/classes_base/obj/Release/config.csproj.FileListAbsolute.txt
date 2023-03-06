@@ -1,0 +1,10 @@
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\config.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\config.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\config\obj\Release\config.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\config\obj\Release\config.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\config\obj\Release\config.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\config.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\config.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\config\obj\Release\config.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\config\obj\Release\config.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\config\obj\Release\config.pdb

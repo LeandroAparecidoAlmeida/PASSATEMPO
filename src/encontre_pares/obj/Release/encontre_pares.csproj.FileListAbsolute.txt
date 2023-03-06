@@ -1,0 +1,61 @@
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_pares.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_pares.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_memoria\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_memoria\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_memoria\obj\Release\Jogos.EncontrePares.TelaJogoMemoria.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_memoria\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_memoria\obj\Release\encontre_pares.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_memoria\obj\Release\encontre_pares.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_pares.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_pares.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_pares\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\encontre_pares.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\encontre_pares.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_pares\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_pares\obj\Release\encontre_pares.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_pares\obj\Release\encontre_pares.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\encontre_pares.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\encontre_pares.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\pares.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\pares.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_pares\obj\Release\pares.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_pares\obj\Release\pares.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\bin\pares.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\pares.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\2. SOFTWARE\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\src\encontre_pares\obj\Release\pares.dll
+D:\2. SOFTWARE\PASSATEMPO\src\encontre_pares\obj\Release\pares.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\pares.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\pares.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\encontre_pares\obj\Release\Jogos.EncontrePares.TelaEncontrePares.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\encontre_pares\obj\Release\encontre_pares.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\encontre_pares\obj\Release\pares.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\encontre_pares\obj\Release\pares.pdb

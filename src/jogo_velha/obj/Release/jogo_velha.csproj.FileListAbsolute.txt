@@ -1,0 +1,89 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\bin\Release\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\bin\Release\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\bin\Release\classes.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\bin\Release\classes.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\obj\Release\Jogos.Velha.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\obj\Release\Jogos.Velha.TelaNivelDificuldade.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\obj\Release\Jogos.Velha.TelaJogoVelha.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\Jogos.Velha.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\Jogos.Velha.TelaNivelDificuldade.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\Jogos.Velha.TelaJogoVelha.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\bin\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\Jogos.Velha.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\Jogos.Velha.TelaNivelDificuldade.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\Jogos.Velha.TelaJogoVelha.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaNivelDificuldade.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_velha.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_velha.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaNivelDificuldade.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\jogo_velha.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\jogo_velha.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaOpcoes.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\jogo_velha.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\jogo_velha.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaOpcoes.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\velha.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\velha.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_velha\obj\Release\velha.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_velha\obj\Release\velha.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\bin\velha.dll
+D:\2. SOFTWARE\PASSATEMPO\bin\velha.pdb
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_velha\obj\Release\velha.dll
+D:\2. SOFTWARE\PASSATEMPO\src\jogo_velha\obj\Release\velha.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\velha.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\bin\velha.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_velha\obj\Release\Jogos.JogoVelha.TelaJogoVelha.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_velha\obj\Release\jogo_velha.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_velha\obj\Release\velha.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\4. PROGRAMAS TESTE-APRENDIZADO\PASSATEMPO\src\jogo_velha\obj\Release\velha.pdb

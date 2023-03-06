@@ -1,0 +1,40 @@
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_saida.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_saida.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\Jogos.EncontreSaida.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\Jogos.EncontreSaida.TelaEncontreSaida.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_saida.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\encontre_saida.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\Jogos.EncontreSaida.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\Jogos.EncontreSaida.TelaEncontreSaida.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.csproj.GenerateResource.Cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.dll
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\encontre_saida\obj\Release\encontre_saida.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\encontre_saida.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\encontre_saida.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_saida\obj\Release\encontre_saida.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_saida\obj\Release\Jogos.EncontreSaida.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_saida\obj\Release\Jogos.EncontreSaida.TelaEncontreSaida.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_saida\obj\Release\encontre_saida.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_saida\obj\Release\encontre_saida.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\encontre_saida\obj\Release\encontre_saida.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\encontre_saida.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\bin\encontre_saida.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_saida\obj\Release\Jogos.EncontreSaida.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_saida\obj\Release\Jogos.EncontreSaida.TelaEncontreSaida.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.dll
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\encontre_saida.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\encontre_saida.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_saida\obj\Release\Jogos.EncontreSaida.Properties.Resources.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_saida\obj\Release\Jogos.EncontreSaida.TelaEncontreSaida.resources
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.csproj.GenerateResource.Cache
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\encontre_saida\obj\Release\encontre_saida.csprojResolveAssemblyReference.cache

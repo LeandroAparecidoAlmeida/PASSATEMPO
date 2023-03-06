@@ -1,0 +1,10 @@
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\bin\Release\jogo_4erros.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\bin\Release\jogo_4erros.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\Jogos.Jogo4Erros.TelaJogo4Erros.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\jogo_4erros.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\jogo_4erros.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\jogo_4erros.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\Jogos.Jogo4Erros.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_4erros.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\jogo_4erros.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogo_4erros\obj\Release\jogo_4erros.csprojResolveAssemblyReference.cache

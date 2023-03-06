@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FE201741-892E-4DE5-94FC-AE1D06CD59E4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jogos.EncontrePares</RootNamespace>
+    <AssemblyName>pares</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Coordenada.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TelaEncontrePares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaEncontrePares.Designer.cs">
+      <DependentUpon>TelaEncontrePares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaEncontrePares.resx">
+      <DependentUpon>TelaEncontrePares.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\urso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abelha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aranha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borboleta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caracol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coelho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leão.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\macaco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passaro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sapo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trilha1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trilha2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pos15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trilha3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trilha4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trilha5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\classes_base\classes_base.csproj">
+      <Project>{0f91d4d0-cbd6-4dc4-84b9-b0a73d5884ba}</Project>
+      <Name>classes_base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

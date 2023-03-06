@@ -1,0 +1,67 @@
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\bin\Release\JogosEducativos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\JogosEducativos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\classes.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\jogo_forca.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\jogo_memoria.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\jogo_velha.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\classes.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\jogo_forca.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\jogo_memoria.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\jogo_velha.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\bin\Release\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\JogosEducativos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\JogosEducativos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\JogosEducativos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos_educativos\obj\Release\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\JogosEducativos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\bin\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS_EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\JogosEducativos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\JogosEducativos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.exe
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\JogosEducativos.exe.config
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.exe
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\JogosEducativos.exe
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\JogosEducativos.pdb
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.csprojResolveAssemblyReference.cache
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\Jogos.Properties.Resources.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\Jogos.TelaSobre.resources
+D:\2. SOFTWARE\3. PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\jogos_educativos\obj\Release\JogosEducativos.csproj.GenerateResource.Cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\CSharp\JOGOS EDUCATIVOS\bin\JogosEducativos.exe.config
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\CSharp\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\CSharp\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\JogosEducativos.exe.config
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\JogosEducativos.exe
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\bin\JogosEducativos.pdb
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.csprojResolveAssemblyReference.cache
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\Jogos.TelaPrincipal.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\Jogos.Properties.Resources.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\Jogos.TelaSobre.resources
+D:\2. PROJETOS\2. Terceiros\Alex Jussiani\C#\JOGOS EDUCATIVOS\src\jogos_educativos\obj\Release\JogosEducativos.csproj.GenerateResource.Cache

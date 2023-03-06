@@ -1,0 +1,5 @@
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\classes.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\bin\classes.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo_dll\obj\Release\classes.dll
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo_dll\obj\Release\classes.pdb
+D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\passatempo_dll\obj\Release\classes.csprojResolveAssemblyReference.cache

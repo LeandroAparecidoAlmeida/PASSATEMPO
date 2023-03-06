@@ -1,0 +1,24 @@
+D:\JOGOS\src\suspeito_oculto\bin\Debug\suspeito_oculto.dll
+D:\JOGOS\src\suspeito_oculto\bin\Debug\suspeito_oculto.pdb
+D:\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.dll
+D:\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.pdb
+D:\JOGOS\bin\suspeito_oculto.dll
+D:\JOGOS\bin\suspeito_oculto.pdb
+D:\JOGOS\src\suspeito_oculto\obj\Debug\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Debug\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Debug\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\suspeito_oculto\obj\Debug\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\bin\suspeito_oculto.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Debug\suspeito_oculto.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Debug\Jogos.SuspeitoOculto.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Debug\Jogos.SuspeitoOculto.TelaJogoSuspeitoOculto.resources
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Debug\suspeito_oculto.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Debug\suspeito_oculto.dll
+D:\PARTICULARES\Alex Jussiani\2015\C_SHARP\JogosEducativos\src\suspeito_oculto\obj\Debug\suspeito_oculto.pdb

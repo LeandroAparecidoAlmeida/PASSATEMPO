@@ -1,0 +1,40 @@
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\bin\Jogos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\bin\Jogos.exe
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\bin\Jogos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.exe
+D:\PARTICULARES\Alex Jussiani\2015\JOGOS\src\jogos\obj\Debug\Jogos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\bin\Jogos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.exe
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\bin\Jogos.exe
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\bin\Jogos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\C#\JOGOS\src\jogos\obj\Debug\Jogos.csproj.GenerateResource.Cache
+D:\JOGOS\bin\Jogos.exe.config
+D:\JOGOS\src\jogos\obj\Debug\Jogos.exe
+D:\JOGOS\src\jogos\obj\Debug\Jogos.pdb
+D:\JOGOS\bin\Jogos.exe
+D:\JOGOS\bin\Jogos.pdb
+D:\JOGOS\src\jogos\obj\Debug\Jogos.csprojResolveAssemblyReference.cache
+D:\JOGOS\src\jogos\obj\Debug\Jogos.TelaPrincipal.resources
+D:\JOGOS\src\jogos\obj\Debug\Jogos.Properties.Resources.resources
+D:\JOGOS\src\jogos\obj\Debug\Jogos.TelaSobre.resources
+D:\JOGOS\src\jogos\obj\Debug\Jogos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\Jogos.exe.config
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\Jogos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\bin\Jogos.pdb
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.csprojResolveAssemblyReference.cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.TelaPrincipal.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.Properties.Resources.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.TelaSobre.resources
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.csproj.GenerateResource.Cache
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.exe
+D:\PARTICULARES\Alex Jussiani\2015\CSharp\JOGOS\src\jogos\obj\Debug\Jogos.pdb

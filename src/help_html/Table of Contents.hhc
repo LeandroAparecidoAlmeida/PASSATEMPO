@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="WindowName" value="window1">
+	<param name="ImageList" value="D:\2. PROJETOS\1. Particulares\PASSATEMPO\src\help_html\home.bmp">
+	<param name="Image Width" value="16">
+	<param name="Color Mask" value="0xff00ff">
+	<param name="Window Styles" value="0x1021">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Jogo da Velha">
+		<param name="Local" value="jogo_da_velha.html">
+		<param name="FrameName" value="window1">
+		<param name="ImageNumber" value="9">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Jogo da Forca">
+		<param name="Local" value="jogo_da_forca.html">
+		<param name="ImageNumber" value="9">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Torre de Han&oacute;i">
+		<param name="Local" value="torre_de_hanoi.html">
+		<param name="ImageNumber" value="9">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rato no Labirinto">
+		<param name="Local" value="rato_no_labirinto.html">
+		<param name="ImageNumber" value="9">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Encontre os Pares">
+		<param name="Local" value="encontre_os_pares.html">
+		<param name="ImageNumber" value="9">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Suspeito Oculto">
+		<param name="Local" value="suspeito_oculto.html">
+		<param name="ImageNumber" value="9">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Acerte a Cor">
+		<param name="Local" value="acerte_a_cor.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>
